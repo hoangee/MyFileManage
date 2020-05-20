@@ -1,0 +1,2 @@
+# MyFileManage
+WinForm开发的一款类似于Winodws资源管理器
